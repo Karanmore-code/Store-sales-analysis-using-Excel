@@ -1,6 +1,6 @@
 # Store-sales-analysis-using-Excel
 
-## Questions(sample) to be answered with the analysis:
+## Sample questions to be answered with the analysis:
 1. Which month has the highest sales and orders?
 2. Sales with respect to Gender
 3. Number of orders delivered, refunded, returned etc.
