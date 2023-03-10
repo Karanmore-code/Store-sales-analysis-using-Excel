@@ -22,6 +22,6 @@
 
 ## Conclusion to improve sales for this store:
 - Focus on women (as they are the high sales contributor) from the states from Maharashtra, Karnataka and UP. This can be done by targeting them using marketing channels along with ads/coupon codes etc. The focus would be on channels like Amazon, Flipkart and Myntra.
-- Secondary strategy would be to target senior age group. However, more data is required to get insights on that. 
+- Secondary strategy would be to target other age groups. However, more data is required to get insights on that. 
 
 # Thank you
