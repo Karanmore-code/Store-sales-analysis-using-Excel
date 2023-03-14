@@ -1,4 +1,5 @@
 # Store-sales-analysis-using-Excel
+## Tools: Excel
 
 ## Sample questions to be answered with the analysis:
 1. Which month has the highest sales and orders?
